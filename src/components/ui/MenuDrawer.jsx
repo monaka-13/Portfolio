@@ -6,7 +6,7 @@ import { MENU_ITEMS } from "../../constants/menuItems";
 export default function MenuDrawer({isMenuOpen, setIsMenuOpen}) {
   return (
     <div
-      className={`fixed h-screen w-64 bg-pink-300 ${isMenuOpen ? 'left-0 top-0' : 'hidden'}`}
+      className={`fixed h-screen w-64 bg-gray-500 ${isMenuOpen ? 'left-0 top-0' : 'hidden'}`}
     >
       <Button
         aria-label="close"
