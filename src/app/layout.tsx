@@ -29,7 +29,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <CustomHeader />
-        {children}
+        <main className='container flex flex-col mx-auto px-4 py-8'>{children}</main>
       </body>
     </html>
   );
