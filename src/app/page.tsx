@@ -4,15 +4,7 @@ export default function Home() {
     <>
       <div>
         <h2>Hello World!</h2>
-        <h2>Hello World!</h2>
-        <h2>Hello World!</h2>
-        <h2>Hello World!</h2>
-        <h2>Hello World!</h2>
-        <h2>Hello World!</h2>
-        <h2>Hello World!</h2>
-        <h2>Hello World!</h2>
-        <h2>Hello World!</h2>
-        <h2>Hello World!</h2>
+        <p>this is Kay Shigenaga</p>
         {/* <h2>license</h2><br />
         <p>The icons in this web pages are from free plan of Font Awesome.</p>
         <p>As to license, reffer below link</p><br />

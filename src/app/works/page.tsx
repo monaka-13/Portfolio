@@ -15,7 +15,6 @@ export default function Page() {
       <div
         className='grid grid-cols-1 justify-items-center
           gap-4
-          bg-gray-200
           p-4
           xs:grid-cols-1
           lg:grid-cols-2
