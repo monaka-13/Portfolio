@@ -6,7 +6,7 @@ import {
   CardHeader,
   CardTitle,
 } from '@/components/ui/card';
-import {works} from "@/constants/works"
+import {WORKS_ITEMS} from "@/constants/works"
 
 export default function Page() {
   return (
@@ -20,7 +20,7 @@ export default function Page() {
           lg:grid-cols-2
           xl:grid-cols-3'
       >
-        {works.map((work, index) => (
+        {WORKS_ITEMS.map((work, index) => (
           <Card key={index} className='col-span-1
               border
               min-w-96

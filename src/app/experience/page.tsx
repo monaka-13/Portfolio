@@ -1,7 +1,7 @@
 export default function Page(){
     return(
         <>
-            <h2>experience</h2>
+            <h2>Experience</h2>
         </>
     )
 }

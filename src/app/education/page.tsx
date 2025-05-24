@@ -1,7 +1,7 @@
 export default function Page(){
     return(
         <>
-            <h2>education</h2>
+            <h2>Education</h2>
         </>
     )
 }
