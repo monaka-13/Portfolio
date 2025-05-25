@@ -1,6 +1,6 @@
 - [x] theme color
 - [ ] contact
-  - [ ] urg: コンテンツ
+  - [x] urg: コンテンツ
   - [ ] urg: 別サイト移動リンク
   - [ ] low: eメールが届く機能
   - [ ] mid: リファレンス機能
