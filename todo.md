@@ -5,8 +5,9 @@
   - [ ] low: eメールが届く機能
   - [ ] mid: リファレンス機能
 - [ ] aboutMe
-  - [ ] urg: overview
-  - [ ] urg: 別サイト移動リンク
+  - [x] urg: overview
+  - [x] urg: 別サイト移動リンク
+  - [ ] hig: view, section
   - [ ] mid: 趣味
 - [ ] job Experience
   - [ ] urg: 職歴 contents
